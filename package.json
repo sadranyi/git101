@@ -1,0 +1,28 @@
+{
+  "name": "mygit101",
+  "version": "1.0.0",
+  "description": "Basic Git Tutorial App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadranyi/git101.git"
+  },
+  "keywords": [
+    "GIT",
+    "Afrilogic"
+  ],
+  "author": "Samuel Adranyi 9/4/2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadranyi/git101/issues"
+  },
+  "homepage": "https://github.com/sadranyi/git101#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  }
+}
